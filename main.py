@@ -10,7 +10,7 @@
 #Day1
 
 #exercise 1.1
-print("Day 1 - Python print function \nThe function is declared like this: \nprint('what to print')")
+print('Day 1 - Python print function \nThe function is declared like this: \nprint("what to print")')
 
 #exercise 1.2
 #Fix the code below 👇
