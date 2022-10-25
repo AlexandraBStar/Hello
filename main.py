@@ -18,3 +18,9 @@ print("Day 1 - String Manipulation")
 print("String Concatenation is done with the"+" "+"sign.")
 print('e.g. print("Hello" + "world")')
 print("New lines can be created with a backslash and n.")
+
+#exercise 1.3
+#len function
+Name = input("Your name is:")
+lenght = len(Name)
+print("The lenght of your name is:", lenght, "characters")
